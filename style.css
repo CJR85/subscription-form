@@ -49,7 +49,7 @@ form input {
 }
 
 form button {
-  background: #61b752;
+  background: #a052b7;
   border: none;
   outline: none;
   height: 70px;
@@ -58,7 +58,7 @@ form button {
 }
 
 span {
-  color: #61b752;
+  color: #a052b7;
   margin-top: 10px;
   display: block;
 }
